@@ -1,0 +1,8 @@
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base64Plugin\bin\Debug\Base64Plugin.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base64Plugin\bin\Debug\Base64Plugin.pdb
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base64Plugin\bin\Debug\PluginInterface.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base64Plugin\bin\Debug\PluginInterface.pdb
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base64Plugin\obj\Debug\Base64Plugin.csprojAssemblyReference.cache
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base64Plugin\obj\Debug\Base64Plugin.csproj.CopyComplete
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base64Plugin\obj\Debug\Base64Plugin.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base64Plugin\obj\Debug\Base64Plugin.pdb

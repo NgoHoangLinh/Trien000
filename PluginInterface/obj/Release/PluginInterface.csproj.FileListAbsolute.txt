@@ -1,0 +1,4 @@
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\PluginInterface\bin\Release\PluginInterface.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\PluginInterface\bin\Release\PluginInterface.pdb
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\PluginInterface\obj\Release\PluginInterface.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\PluginInterface\obj\Release\PluginInterface.pdb
