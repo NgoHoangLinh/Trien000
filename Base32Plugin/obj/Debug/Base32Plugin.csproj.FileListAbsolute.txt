@@ -1,0 +1,10 @@
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base32Plugin\bin\Debug\Base32Plugin.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base32Plugin\bin\Debug\Base32Plugin.pdb
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base32Plugin\bin\Debug\PluginInterface.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base32Plugin\bin\Debug\Wiry.Base32.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base32Plugin\bin\Debug\PluginInterface.pdb
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base32Plugin\bin\Debug\Wiry.Base32.xml
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base32Plugin\obj\Debug\Base32Plugin.csprojAssemblyReference.cache
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base32Plugin\obj\Debug\Base32Plugin.csproj.CopyComplete
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base32Plugin\obj\Debug\Base32Plugin.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\Base32Plugin\obj\Debug\Base32Plugin.pdb
