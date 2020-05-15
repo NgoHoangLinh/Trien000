@@ -174,7 +174,10 @@ namespace WindowsFormsApp1
                         boatNameTextBox.ReadOnly = false;
                         for (int i = 0; i < a.Count; i++)
                         {
-                            a[i].transportBitmap = new Bitmap(a[i]._bitmapPath);
+                            if (a[i]._bitmapPath != "")
+                            {
+                                a[i].transportBitmap = new Bitmap(a[i]._bitmapPath);
+                            }
                         }
                         if (a[a.Count - 1]._bitmapPath != "")
                         {

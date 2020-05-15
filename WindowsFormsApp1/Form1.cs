@@ -343,7 +343,7 @@ namespace WindowsFormsApp1
                     ISerializer[] serials = ProjectContainer.instance.GetSerializersArray();
                     foreach (ISerializer se in serials)
                     {
-                        ProjectContainer.instance.putNewPlugin(se.ToString() + plugin.GetExtention(), new Tuple<ISerializer, IPlugin>(se, plugin));
+                        ProjectContainer.instance.putNewPlugin(se.GetExtention() + plugin.GetExtention(), new Tuple<ISerializer, IPlugin>(se, plugin));
                     }
                 }
             }
