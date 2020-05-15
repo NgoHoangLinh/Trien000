@@ -196,9 +196,14 @@ namespace WindowsFormsApp1
 
                         routeTextBox.Text = a[a.Count - 1].getTransportName();
                         routeTextBox.ReadOnly = false;
+                        for (int i = 0; i < a.Count; i++)
+                        {
+                            a[i].transportBitmap = new Bitmap(a[i]._bitmapPath);
+                        }
                         if (a[a.Count - 1]._bitmapPath != "")
                         {
                             trainPictureBox.Image = new Bitmap(a[a.Count - 1]._bitmapPath);
+                            bitmapPath = a[a.Count - 1]._bitmapPath;
                         }
                         else
                         {

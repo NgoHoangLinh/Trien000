@@ -192,9 +192,14 @@ namespace WindowsFormsApp1
 
                         brandTextBox.Text = a[a.Count - 1].getTransportName();
                         brandTextBox.ReadOnly = false;
+                        for(int i = 0; i < a.Count; i++)
+                        {
+                            a[i].transportBitmap = new Bitmap(a[i]._bitmapPath);
+                        }
                         if (a[a.Count - 1]._bitmapPath != "")
                         {
                             autoPictureBox.Image = new Bitmap(a[a.Count - 1]._bitmapPath);
+                            bitmapPath = a[a.Count - 1]._bitmapPath;
                         }
                         else
                         {

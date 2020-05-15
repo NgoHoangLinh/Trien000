@@ -3,3 +3,8 @@ C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\
 C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\PluginInterface\obj\Debug\PluginInterface.dll
 C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\PluginInterface\obj\Debug\PluginInterface.pdb
 C:\Users\avaryvonchyk\Downloads\GitProjects\LihnProject\NgoHoangLinh-Transports\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+C:\Users\avaryvonchyk\Downloads\GitProjects\Trien000\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\Trien000\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\avaryvonchyk\Downloads\GitProjects\Trien000\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+C:\Users\avaryvonchyk\Downloads\GitProjects\Trien000\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\avaryvonchyk\Downloads\GitProjects\Trien000\PluginInterface\obj\Debug\PluginInterface.pdb

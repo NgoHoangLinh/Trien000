@@ -108,7 +108,8 @@ namespace WindowsFormsApp1
                     if (lineName == ObjType.Name)
                     {
                         l.Add(obj);
-                        break;
+                        obj = (T)Activator.CreateInstance(typeof(T));
+                        continue;
                     }
                 }
 
@@ -130,22 +131,27 @@ namespace WindowsFormsApp1
                                 if (p.PropertyType.Name == "String")
                                 {
                                     p.SetValue(obj, lineVal, null);
+                                    break;
                                 }
                                 if (p.PropertyType.Name == "Single")
                                 {
                                     p.SetValue(obj, float.Parse(lineVal), null);
+                                    break;
                                 }
                                 if (p.PropertyType.Name == "Int32")
                                 {
                                     p.SetValue(obj, Int32.Parse(lineVal), null);
+                                    break;
                                 }
                                 if (p.PropertyType.Name == "Int64")
                                 {
                                     p.SetValue(obj, Int64.Parse(lineVal), null);
+                                    break;
                                 }
                                 if (p.PropertyType.Name == "Long")
                                 {
                                     p.SetValue(obj, long.Parse(lineVal), null);
+                                    break;
                                 }
                             }
 
@@ -291,22 +297,27 @@ namespace WindowsFormsApp1
                                 if (p.PropertyType.Name == "String")
                                 {
                                     p.SetValue(obj, lineVal, null);
+                                    break;
                                 }
                                 if (p.PropertyType.Name == "Single")
                                 {
                                     p.SetValue(obj, float.Parse(lineVal), null);
+                                    break;
                                 }
                                 if (p.PropertyType.Name == "Int32")
                                 {
                                     p.SetValue(obj, Int32.Parse(lineVal), null);
+                                    break;
                                 }
                                 if (p.PropertyType.Name == "Int64")
                                 {
                                     p.SetValue(obj, Int64.Parse(lineVal), null);
+                                    break;
                                 }
                                 if (p.PropertyType.Name == "Long")
                                 {
                                     p.SetValue(obj, long.Parse(lineVal), null);
+                                    break;
                                 }
                             }
 
