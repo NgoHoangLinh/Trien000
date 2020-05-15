@@ -83,7 +83,7 @@ namespace WindowsFormsApp1
                 {
 
                     Wheels wheels = new Wheels(k, f, tireWheelsTextBox.Text);
-                    a = new Train(bitmapPath, routeTextBox.Text, i, weight, carriageNum, wheels);
+                    a = new Train(routeTextBox.Text, bitmapPath, i, weight, carriageNum, wheels);
                     a.transportBitmap = (Bitmap)trainPictureBox.Image;
                     ProjectContainer.instance.putNewTransports(a.GetType().Name, a.getList());
                     form.Enabled = true;
